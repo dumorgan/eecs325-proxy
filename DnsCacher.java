@@ -7,7 +7,7 @@ import java.util.*;
  * */
 public class DnsCacher {
 	
-	private Hashtable<String, ipAndTimeStamp> addresses; //hashtable containing each url (keys) and its correspondant IP and timestamp (values)
+	private Hashtable<String, ipAndTimeStamp> addresses; //hashtable containing each url (keys) and its correspondent IP and timestamp (values)
 	
 	
 	/**
